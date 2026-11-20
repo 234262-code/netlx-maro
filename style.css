@@ -66,7 +66,7 @@ a {
             rgba(0, 0, 0, 0.60),
             rgba(0, 0, 0, 0.60)
         ),
-        url("../image/mm.png");
+        url("./mm.png");
 
     background-size: cover;
     background-position: center;
